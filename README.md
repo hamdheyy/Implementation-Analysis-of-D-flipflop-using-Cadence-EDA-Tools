@@ -106,14 +106,3 @@ For Transient Analysis Settings and Output
 
 Results:
 The design and implementation of the D-flip-flop using Cadence EDA tools were successfully completed. The simulated results confirmed the correct operation of the flip-flop, with proper synchronization of the input data with the clock signal. Key performance parameters such as propagation delay, power consumption, and area utilization were evaluated, aligning with expected theoretical values.
-
-
-
-
-
-
-
-
-
-
-
